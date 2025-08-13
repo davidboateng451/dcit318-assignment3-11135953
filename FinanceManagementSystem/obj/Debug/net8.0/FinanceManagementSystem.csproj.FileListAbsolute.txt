@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.exe
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.deps.json
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.dll
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\bin\Debug\net8.0\FinanceManagementSystem.pdb
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.sourcelink.json
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.dll
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\refint\FinanceManagementSystem.dll
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.pdb
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\FinanceManagementSystem\obj\Debug\net8.0\ref\FinanceManagementSystem.dll
