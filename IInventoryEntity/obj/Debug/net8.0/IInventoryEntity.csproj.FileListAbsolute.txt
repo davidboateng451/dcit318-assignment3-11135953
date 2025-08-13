@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\bin\Debug\net8.0\IInventoryEntity.exe
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\bin\Debug\net8.0\IInventoryEntity.deps.json
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\bin\Debug\net8.0\IInventoryEntity.runtimeconfig.json
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\bin\Debug\net8.0\IInventoryEntity.dll
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\bin\Debug\net8.0\IInventoryEntity.pdb
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\IInventoryEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\IInventoryEntity.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\IInventoryEntity.AssemblyInfo.cs
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\IInventoryEntity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\IInventoryEntity.sourcelink.json
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\IInventoryEntity.dll
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\refint\IInventoryEntity.dll
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\IInventoryEntity.pdb
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\IInventoryEntity.genruntimeconfig.cache
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\IInventoryEntity\obj\Debug\net8.0\ref\IInventoryEntity.dll
