@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\bin\Debug\net8.0\HealthcareSystemApp.exe
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\bin\Debug\net8.0\HealthcareSystemApp.deps.json
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\bin\Debug\net8.0\HealthcareSystemApp.runtimeconfig.json
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\bin\Debug\net8.0\HealthcareSystemApp.dll
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\bin\Debug\net8.0\HealthcareSystemApp.pdb
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\HealthcareSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\HealthcareSystemApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\HealthcareSystemApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\HealthcareSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\HealthcareSystemApp.sourcelink.json
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\HealthcareSystemApp.dll
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\refint\HealthcareSystemApp.dll
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\HealthcareSystemApp.pdb
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\HealthcareSystemApp.genruntimeconfig.cache
+C:\Users\hp\Desktop\dcit318-assignment3-11135953\HealthcareSystemApp\obj\Debug\net8.0\ref\HealthcareSystemApp.dll
